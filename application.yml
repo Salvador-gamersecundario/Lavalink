@@ -14,5 +14,5 @@ lavalink:
       local: false
     bufferDurationMs: 400
     frameBufferDurationMs: 5000
-    opusEncodingQuality: 0
+    opusEncodingQuality: 4
     resamplingQuality: LOW
