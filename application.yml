@@ -3,7 +3,6 @@ server:
   address: 0.0.0.0
 lavalink:
   server:
-    pluginsDir: "./plugins" # Esto le dice dónde buscar tu plugin
     password: "Lv-9k#X2p!7sQ"
     sources:
       youtube: true
@@ -15,5 +14,5 @@ lavalink:
       local: false
     bufferDurationMs: 400
     frameBufferDurationMs: 5000
-    opusEncodingQuality: 5
+    opusEncodingQuality: 0
     resamplingQuality: LOW
